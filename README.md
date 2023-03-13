@@ -1,12 +1,12 @@
 # Police-Chase-Game
 
-In this assignment, you are the police! You will control four detectives as they travel through a network of cities trying to catch a thief.
+You are the police! You will control four detectives as they travel through a network of cities trying to catch a thief.
 
 The police are aiming for any of the four detectives to catch the thief before the thief escapes to the getaway city, and before the time runs out... and the aim of the thief is to reach the getaway city before they are caught.
 
 The detectives have a map, but do not know where the thief is or where they are trying to get to. The thief also has a map but unfortunately they don't really know how to use it and they wander randomly through the cities trying to reach the getaway city. The detectives may employ different strategies depending on what they have been assigned to.
 
-Game Rules
+# Game Rules
 In this game, all the people (the four detectives and the thief) are known as agents, and the game consists of a series of turns, known as cycles.
 
 Each agent starts in a city, determined by user configuration. Every cycle, each agent may move from their current city to an adjacent city by road. The goal of the detectives is to end up in the same city as the thief, which would allow them to catch the thief, while the goal of the thief is to reach the getaway city.
