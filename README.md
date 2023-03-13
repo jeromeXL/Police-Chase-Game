@@ -4,7 +4,7 @@ In this assignment, you are the police! You will control four detectives as they
 
 The police are aiming for any of the four detectives to catch the thief before the thief escapes to the getaway city, and before the time runs out... and the aim of the thief is to reach the getaway city before they are caught.
 
-The detectives have a map, but do not know where the thief is or where they are trying to get to. The thief also has a map but unfortunately they didn't take COMP2521, so they don't really know how to use it and they wander randomly through the cities trying to reach the getaway city. The detectives may employ different strategies depending on what they have been assigned to.
+The detectives have a map, but do not know where the thief is or where they are trying to get to. The thief also has a map but unfortunately they don't really know how to use it and they wander randomly through the cities trying to reach the getaway city. The detectives may employ different strategies depending on what they have been assigned to.
 
 Game Rules
 In this game, all the people (the four detectives and the thief) are known as agents, and the game consists of a series of turns, known as cycles.
